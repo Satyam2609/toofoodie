@@ -79,7 +79,7 @@ export const Contact = () => {
                         className="h-[400px] rounded-3xl overflow-hidden shadow-2xl relative"
                     >
                         <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3402.5619163773177!2d-118.40245032437947!3d34.067347317208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bc04d6d147ab%3A0xd6c7c37927ad44!2sBakery%20St%2C%20Beverly%20Hills%2C%20CA%2090210!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus"
+                            src="https://www.google.com/maps/place/Too+Foodie/@28.8260921,78.6992945,17z/data=!3m1!4b1!4m6!3m5!1s0x390afd7bad288727:0xb4b4da00e84e5bd4!8m2!3d28.8260874!4d78.7018694!16s%2Fg%2F11mvzb10v2?entry=ttu&g_ep=EgoyMDI2MDIxOC4wIKXMDSoASAFQAw%3D%3D"
                             width="100%"
                             height="100%"
                             style={{ border: 0 }}
