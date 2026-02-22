@@ -33,7 +33,7 @@ export const Contact = () => {
                             </div>
                             <div>
                                 <h4 className="text-xl font-bold text-brown">Visit Us</h4>
-                                <p className="text-foreground/70 mt-1">123 Bakery Street, Dessert Valley,<br />California, CA 90210</p>
+                                <p className="text-foreground/70 mt-1">sec 13-13f/123, Naya Moradabad,<br />Moradabad, Uttar Pradesh 244102</p>
                             </div>
                         </div>
 
@@ -43,7 +43,7 @@ export const Contact = () => {
                             </div>
                             <div>
                                 <h4 className="text-xl font-bold text-brown">Call Us</h4>
-                                <p className="text-foreground/70 mt-1">+1 (555) 123-4567</p>
+                                <p className="text-foreground/70 mt-1">+91 79061 82313</p>
                             </div>
                         </div>
 
@@ -53,7 +53,7 @@ export const Contact = () => {
                             </div>
                             <div>
                                 <h4 className="text-xl font-bold text-brown">Email Us</h4>
-                                <p className="text-foreground/70 mt-1">hello@sweettreats.com</p>
+                                <p className="text-foreground/70 mt-1">contact@toofoodie.in</p>
                             </div>
                         </div>
 
@@ -79,14 +79,14 @@ export const Contact = () => {
                         className="h-[400px] rounded-3xl overflow-hidden shadow-2xl relative"
                     >
                         <iframe
-                            src="https://www.google.com/maps/place/Too+Foodie/@28.8260921,78.6992945,17z/data=!3m1!4b1!4m6!3m5!1s0x390afd7bad288727:0xb4b4da00e84e5bd4!8m2!3d28.8260874!4d78.7018694!16s%2Fg%2F11mvzb10v2?entry=ttu&g_ep=EgoyMDI2MDIxOC4wIKXMDSoASAFQAw%3D%3D"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3493.0858!2d78.6992945!3d28.8260921!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390afd7bad288727%3A0xb4b4da00e84e5bd4!2sToo%20Foodie!5e0!3m2!1sen!2sin!4v1740207392123"
                             width="100%"
                             height="100%"
                             style={{ border: 0 }}
                             allowFullScreen={true}
                             loading="lazy"
                             referrerPolicy="no-referrer-when-downgrade"
-                            title="Bakery Location"
+                            title="Too Foodie Location"
                             className="grayscale hover:grayscale-0 transition-all duration-700"
                         ></iframe>
                     </motion.div>
@@ -103,7 +103,7 @@ export const Footer = () => {
                 <div className="flex flex-col md:flex-row justify-between items-center gap-12 border-b border-white/10 pb-12">
                     <div className="flex items-center gap-3">
                         <Cake className="h-10 w-10 text-primary" />
-                        <span className="text-3xl font-bold tracking-tight">Sweet Treats</span>
+                        <span className="text-3xl font-bold tracking-tight">Too Foodie</span>
                     </div>
 
                     <nav className="flex flex-wrap justify-center gap-8">
@@ -121,7 +121,7 @@ export const Footer = () => {
 
                 <div className="pt-12 flex flex-col md:flex-row justify-between items-center gap-6">
                     <p className="text-cream/50 text-sm">
-                        © 2024 Sweet Treats Bakery. All rights reserved.
+                        © 2024 Too Foodie. All rights reserved.
                     </p>
                     <div className="flex gap-6 text-sm text-cream/50">
                         <a href="#" className="hover:text-primary">Privacy Policy</a>
